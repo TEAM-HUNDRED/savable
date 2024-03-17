@@ -1,4 +1,3 @@
-# savable
 
 # 목차
 - [제품 소개](https://github.com/TEAM-HUNDRED/savable-app/tree/main?tab=readme-ov-file#-%EC%A0%9C%ED%92%88-%EC%86%8C%EA%B0%9C)
@@ -11,7 +10,7 @@
   - [서비스 아키텍처 & AI 인증 자동화 구성도](https://github.com/TEAM-HUNDRED/savable-app/tree/main?tab=readme-ov-file#%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98--ai-%EC%9D%B8%EC%A6%9D-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B5%AC%EC%84%B1%EB%8F%84)
 
 
-# 🙌🏻 제품 소개
+# 🙌🏻 Savable 제품 소개
 고물가 시대에 현명한 소비습관 형성을 위한 저지출 챌린지 플랫폼, Savable 입니다.
 
 ### 서비스 성과
